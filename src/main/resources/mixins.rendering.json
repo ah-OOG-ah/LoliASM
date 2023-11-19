@@ -1,7 +1,7 @@
 {
-  "package": "zone.rong.loliasm.client.rendering.mixins",
-  "plugin": "zone.rong.loliasm.core.LoliMixinPlugin",
-  "refmap": "mixins.loliasm.refmap.json",
+  "package": "zone.rong.normalasm.client.rendering.mixins",
+  "plugin": "zone.rong.normalasm.core.NormalMixinPlugin",
+  "refmap": "mixins.normalasm.refmap.json",
   "target": "@env(DEFAULT)",
   "minVersion": "0.8",
   "compatibilityLevel": "JAVA_8",

@@ -1,2 +1,2 @@
-# LoliASM
-The lolis are now preparing to bytecode manipulate your game.
+# NormalASM
+Normal people are now preparing to bytecode manipulate your game.
